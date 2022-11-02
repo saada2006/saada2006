@@ -1,1 +1,1 @@
-Hello! My name is Saad, and I am a student from Mission San Jose High School. I am the founder of CashEye Finance, a company that uses the forefront of machine learning in financial markets. I also am working at a GPU programmer at the Irwin Lab @ UCSF.
+Hello! My name is Saad, and I am a student from Mission San Jose High School. I am working at a GPU programmer at the Irwin Lab @ UCSF.
